@@ -32,7 +32,6 @@ class MainActivity : AppCompatActivity() {
         email = "chinh2511006@gmail.com",
         gpa = 3.6
     )
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
