@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     private var currentStudent = Student(
         id = "2415053122301",
-        name = "Nguyê Tấn Chinh",
+        name = "Nguyễn Tấn Chinh",
         className = "24T3",
         email = "chinh2511006@gmail.com",
         gpa = 3.6
